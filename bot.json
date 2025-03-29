@@ -1,6 +1,7 @@
 {
   "name": "Telegram Tagging Bot",
   "version": "1.0.0",
+  "bb_sync_version": 1.0,
   "description": "A professional Telegram bot to tag all users and admins in a group.",
   "main": "bot.js",
   "dependencies": {
