@@ -1,20 +1,21 @@
 {
+  "name": "telegram-tag-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for tagging group members",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "dotenv": "^16.0.0",
     "mongoose": "^7.0.0",
     "node-telegram-bot-api": "^0.61.0"
   },
-  "name": "tager",
-  "version": "1.0.0",
-  "main": "bot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": ""
-}
-"engines": {
-  "node": ">=18.0.0"
+  "license": "ISC"
 }
