@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "mongoose": "^8.13.1",
-    "node-telegram-bot-api": "^0.66.0"
+    "dotenv": "^16.0.0",
+    "mongoose": "^7.0.0",
+    "node-telegram-bot-api": "^0.61.0"
   },
   "name": "tager",
   "version": "1.0.0",
@@ -14,4 +14,7 @@
   "author": "",
   "license": "ISC",
   "description": ""
+}
+"engines": {
+  "node": ">=18.0.0"
 }
