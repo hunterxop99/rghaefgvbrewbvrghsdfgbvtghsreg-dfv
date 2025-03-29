@@ -1,0 +1,16 @@
+{
+  "name": "Telegram Tagging Bot",
+  "version": "1.0.0",
+  "description": "A professional Telegram bot to tag all users and admins in a group.",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "mongoose": "^7.2.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "@WizardBillu",
+  "license": "MIT"
+}
